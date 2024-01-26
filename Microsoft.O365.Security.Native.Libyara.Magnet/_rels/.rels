@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/Microsoft.O365.Security.Native.Libyara.nuspec" Id="R28065FF8221C30B4" />
+  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/32bfd8b5aa2a40eb8f93a3af222f6e95.psmdcp" Id="R61C5E86816FDB4F5" />
+</Relationships>
